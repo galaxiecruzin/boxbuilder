@@ -1,4 +1,4 @@
-use <libs/mcad/boxes.scad>
+use <../libs/mcad/boxes.scad>
 
 // All dimensions in mm
 x = 270;
